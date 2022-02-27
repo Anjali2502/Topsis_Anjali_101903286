@@ -8,7 +8,7 @@ setup(
   author = 'Anjali',                
   author_email = 'aanjali_be19@thapar.edu',      
   url = 'https://github.com/Anjali2502/Topsis_Anjali_101903286',   
-  download_url = '',    
+  download_url = 'https://github.com/Anjali2502/Topsis_Anjali_101903286/archive/refs/tags/version.tar.gz',    
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
